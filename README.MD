@@ -1,4 +1,5 @@
 # TLDCheck
+A simple program for checking against a list of TLD's.
 ## Instructions
 1. Create a file with the name "words.txt" and place it in the root directory.
 2. Format it like so:
